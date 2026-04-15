@@ -127,7 +127,7 @@ avg_salary = filtered_df["EstimatedSalary"].mean()
 # HEADER
 # -------------------------
 st.title("European Bank Dashboard")
-st.caption("Power BI Styled • Glass UI • Advanced Analytics")
+st.caption("")
 
 # -------------------------
 # KPI SECTION
